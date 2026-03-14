@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "We are DREAMERS!!",
+  "base_artist": "スペシャルウィーク (CV. 和氣あず未)、サイレンススズカ (CV. 高野麻里佳)、トウカイテイオー (CV. Machico)、オグリキャップ (CV. 高柳知葉)、ゴールドシップ (CV. 上田 瞳)、メジロマックイーン (CV. 大西沙織)、テイエムオペラオー (CV. 徳井青空)、ナリタブライアン (CV. 衣川里佳)、シンボリルドルフ (CV. 田所あずさ)、タマモクロス (CV. 大空直美)、メジロライアン (CV. 土師亜文)、アドマイヤベガ (CV. 咲々木瞳)、サクラバクシンオー (CV. 三澤紗千香)、ミスターシービー (CV. 天海由梨奈)、メジロドーベル (CV. 久保田ひかり)、マチカネタンホイザ (CV. 遠野ひかる)、サトノダイヤモンド (CV. 立花日菜)、キタサンブラック (CV. 矢野妃菜喜)、サクラチヨノオー (CV. 野口瑠璃子)、メジロアルダン (CV. 会沢紗弥)、ヤエノムテキ (CV. 日原あゆみ)、ナリタトップロード (CV. 中村カンナ)",
+  "createdAt": "2026-03-14T19:55:16.119418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are Dreamers!",
+      "artist": "Tindersticks",
+      "has_synced": false,
+      "path": "select/01_We_Are_Dreamers!_Tindersticks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Are Dreamers",
+      "artist": "Frida Sundemo",
+      "has_synced": true,
+      "path": "select/02_We_Are_Dreamers_Frida_Sundemo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are Dreamers",
+      "artist": "Tindersticks",
+      "has_synced": false,
+      "path": "select/03_We_Are_Dreamers_Tindersticks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are Dreamers",
+      "artist": "Tindersticks Feat. Jehnny Beth",
+      "has_synced": true,
+      "path": "select/04_We_Are_Dreamers_Tindersticks_Feat._Jehnny_Beth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We are DREAMERS!!",
+      "artist": "スペシャルウィーク,サイレンススズカ,トウカイテイオー,オグリキャップ,ゴールドシップ,メジロマックイーン,テイエムオペラオー,ナリタブライアン,シンボリルドルフ,タマモクロス,メジロライアン,アドマイヤベガ,サクラバクシンオー,ミスターシービー,メジロドーベル,マチカネタンホイザ,サトノダイヤモンド,キタサンブラック,サクラチヨノオー,メジロアルダン,ヤエノムテキ,ナリタトップロード",
+      "has_synced": false,
+      "path": "select/pl_01_We_are_DREAMERS!!_スペシャルウィーク,サイレンススズカ,トウカイテイオー,オグリキャップ,ゴールドシップ,メジロマックイーン,テイエムオペラオー,ナリタブライアン,シンボリルドル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "We are DREAMERS!! (Game Size)",
+      "artist": "スペシャルウィーク,サイレンススズカ,トウカイテイオー,オグリキャップ,ゴールドシップ,メジロマックイーン,テイエムオペラオー,ナリタブライアン,シンボリルドルフ,タマモクロス,メジロライアン,アドマイヤベガ,サクラバクシンオー,ミスターシービー,メジロドーベル,マチカネタンホイザ,サトノダイヤモンド,キタサンブラック,サクラチヨノオー,メジロアルダン,ヤエノムテキ,ナリタトップロード",
+      "has_synced": false,
+      "path": "select/pl_02_We_are_DREAMERS!!_(Game_Size)_スペシャルウィーク,サイレンススズカ,トウカイテイオー,オグリキャップ,ゴールドシップ,メジロマックイーン,テイエムオペラオー,ナリタブライアン,シンボリルドル.txt"
+    }
+  ]
+}
